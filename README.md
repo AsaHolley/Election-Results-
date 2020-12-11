@@ -41,7 +41,7 @@ The analysis of the election showed that:
 * County with the highest voter turnout:
   * **Denver County with 306,055 votes**
 
-* Summary from Python Terminal is below:
+* Summary from Command Line is below:
 ![](https://github.com/AsaHolley/Election-Results-/blob/main/PyPoll%20Challenge/Python%20Terminal%20for%20Election%20Audit.png)
 
 
